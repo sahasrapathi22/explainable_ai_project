@@ -1,0 +1,11 @@
+Feature Rule,LIME Contribution
+70.00 < Attendance <= 80.00,-0.7762840778769103
+Access_to_Resources=Low,-0.7150015426887278
+Tutoring_Sessions <= 1.00,-0.6009310850736685
+Learning_Disabilities=No,0.39525401565339385
+16.00 < Hours_Studied <= 20.00,-0.39524092508150405
+75.00 < Previous_Scores <= 88.00,0.30575313884142785
+Internet_Access=Yes,0.2748390837454858
+Parental_Involvement=Medium,-0.24716032050605705
+Peer_Influence=Negative,-0.22837128820494934
+6.00 < Sleep_Hours <= 7.00,-0.1382726815062485

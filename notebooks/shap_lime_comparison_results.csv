@@ -1,0 +1,10 @@
+Feature,SHAP_Contribution,Absolute_SHAP,LIME_Feature_Condition,LIME_Contribution,SHAP_Direction,LIME_Direction,Direction_Agrees
+numerical__Hours_Studied,2.4596659227808186,2.4596659227808186,numerical__Hours_Studied > 24.00,3.189031972797929,Positive,Positive,True
+numerical__Previous_Scores,1.103310829723579,1.103310829723579,numerical__Previous_Scores > 87.00,1.220530034000598,Positive,Positive,True
+categorical__Parental_Involvement_Low,-0.2717433522068642,0.2717433522068642,categorical__Parental_Involvement_Low > 0.00,-0.37968764488539286,Negative,Negative,True
+numerical__Tutoring_Sessions,-0.21937671800228303,0.21937671800228303,numerical__Tutoring_Sessions <= 1.00,-0.6215433957384503,Negative,Negative,True
+categorical__Parental_Involvement_High,-0.1879664902645569,0.1879664902645569,categorical__Parental_Involvement_High <= 0.00,-0.6338194316375346,Negative,Negative,True
+categorical__Access_to_Resources_High,-0.17841138258716047,0.17841138258716047,categorical__Access_to_Resources_High <= 0.00,-0.6855029400282201,Negative,Negative,True
+categorical__Parental_Education_Level_Postgraduate,-0.06607280444109456,0.06607280444109456,categorical__Parental_Education_Level_Postgraduate <= 0.00,-0.4912877560041392,Negative,Negative,True
+categorical__Access_to_Resources_Low,0.061850175858006264,0.061850175858006264,categorical__Access_to_Resources_Low <= 0.00,0.4655236636633752,Positive,Positive,True
+categorical__Learning_Disabilities_Yes,0.006073575236353837,0.006073575236353837,categorical__Learning_Disabilities_Yes <= 0.00,0.3178660634620771,Positive,Positive,True
